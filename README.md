@@ -1,6 +1,6 @@
 # fansi_text
 
-A Python module for formatting text with ANCI escape codes.
+A Python module for formatting text with ANSI escape codes.
 
 ## Installation
 

@@ -3,9 +3,9 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "fanci_text"
+name = "fansi_text"
 version = "0.1.0"
-description = "A Python module for formatting text with ANCI escape codes."
+description = "A Python module for formatting text with ANSI escape codes."
 readme = "README.md"
 license = {text = "MIT License"}
 authors = [
@@ -20,6 +20,6 @@ keywords = ["ANSI", "formatting", "text", "colorizer", "python"]
 requires-python = ">=3.6"
 
 [project.urls]
-homepage = "https://github.com/hal609/fANCI-text"
-repository = "https://github.com/hal609/fANCI-text"
-bug-tracker = "https://github.com/hal609/fANCI-text/issues"
+homepage = "https://github.com/hal609/fANSI-text"
+repository = "https://github.com/hal609/fANSI-text"
+bug-tracker = "https://github.com/hal609/fANSI-text/issues"
