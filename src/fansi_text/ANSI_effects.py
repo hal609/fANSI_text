@@ -113,3 +113,4 @@ class IdeogramDoubleUnderline(ANSI):  CODE = 61; STOP = 65
 class IdeogramOverline(ANSI):   CODE = 62; STOP = 65
 class IdeogramDoubleOverline(ANSI):  CODE = 63; STOP = 65
 class IdeogramStressMarking(ANSI):  CODE = 64; STOP = 65
+

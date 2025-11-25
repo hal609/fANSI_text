@@ -1,5 +1,6 @@
 *.ipynb
 *.csv
 build
+dist
 *.egg-info
 test.py
